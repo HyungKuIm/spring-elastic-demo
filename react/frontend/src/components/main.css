@@ -1,0 +1,18 @@
+/* 폰트: 나눔고딕 */
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+body {
+    font-family: 'Nanum Gothic', serif;
+    margin: 10px;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    color: red;
+}
